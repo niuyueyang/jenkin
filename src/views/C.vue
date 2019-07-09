@@ -5,8 +5,7 @@
     export default {
       inject:['name'],
       mounted(){
-          console.log(this.name)
-		  console.log(111);
+          console.log(this.name);
       }
     }
 </script>
